@@ -1,6 +1,6 @@
 # Pyladies Bratislava
 
-We are the Bratislava chapter of Pyladies. We meet once a month and have fun with Python.
+We are the Bratislava chapter of [Pyladies](https://pyladies.com). We meet once a month and have fun with Python.
 
 In our github you can find the following repos:
 
